@@ -1,0 +1,1 @@
+Developed a machine learning-based system that recommends books using collaborative and popularity-based filtering. Implemented data processing and model training in Python using Pandas and Scikit-learn to generate personalized recommendations.

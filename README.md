@@ -26,3 +26,4 @@ Achieved high recommendation accuracy with optimized similarity measures.
 Successfully deployed a simple UI for book suggestions.
 
 Outcome:
+Enhanced recommendation accuracy and user engagement through hybrid modeling.

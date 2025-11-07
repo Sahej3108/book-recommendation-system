@@ -1,1 +1,28 @@
-Developed a machine learning-based system that recommends books using collaborative and popularity-based filtering. Implemented data processing and model training in Python using Pandas and Scikit-learn to generate personalized recommendations.
+Book Recommendation System
+
+Description:
+A machine learning-based recommendation engine that suggests books to users based on their preferences. The system combines collaborative filtering and popularity-based filtering to provide personalized and relevant book recommendations.
+
+Tech Stack:
+
+Python, Pandas, NumPy, Scikit-learn
+
+Streamlit (for frontend)
+
+Jupyter Notebook
+
+Key Features:
+
+Utilizes collaborative filtering to understand user behavior.
+
+Popularity-based model for cold-start users.
+
+Clean and interactive interface for easy navigation.
+
+Results:
+
+Achieved high recommendation accuracy with optimized similarity measures.
+
+Successfully deployed a simple UI for book suggestions.
+
+Outcome:
